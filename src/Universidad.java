@@ -1,3 +1,4 @@
+
 import java.util.List;
 
 public class Universidad {
@@ -5,7 +6,8 @@ public class Universidad {
     private List<Asignatura> asignaturas;
     private List<CursoExtension> cursoExtensions;
     private List<Evento> eventos;
-  
 
 }
+
+
 
